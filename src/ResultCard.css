@@ -1,0 +1,19 @@
+.resultBox
+{
+  padding: 1rem 1rem 1rem;
+  margin: 1rem;
+  border-radius: 0.5rem;
+  min-width: 9rem;
+  width: 8rem;
+  height: 10rem;
+  background-color: white;
+  border-bottom: solid 4px #bebebe;
+}
+
+.flexContainer
+{
+  display: flex;
+  flex-wrap: wrap;
+  list-style:none;
+  width: 100%;
+}
